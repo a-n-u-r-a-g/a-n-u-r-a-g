@@ -54,16 +54,25 @@ const anurag = {
   GitHub Analytics
 </h2>
 
-
-<br/> 
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Streak Stats 🔥" alt="Anurag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ANURAG-GUPTA-lab&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANURAG-GUPTA-lab)](https://github.com/ANURAG-GUPTA-lab/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANURAG-GUPTA-lab&layout=compact)](https://github.com/ANURAG-GUPTA-lab/github-readme-stats)
+<h3>🔥 Streak Stats</h3>
  
+  <p>
+    <a href="https://github.com/ANURAG-GUPTA-lab/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ANURAG-GUPTA-lab's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ANURAG-GUPTA-lab&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+ 
+ <h3>💻 GitHub Profile Stats</h3>
+ 
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ANURAG-GUPTA-lab's Github Stats" src="https://ANURAG-GUPTA-lab-github-readme-stats.vercel.app/api/?username=ANURAG-GUPTA-lab&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ANURAG-GUPTA-lab's Top Languages" src="https://ANURAG-GUPTA-lab-github-readme-stats.vercel.app/api/top-langs/?username=ANURAG-GUPTA-lab&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+   
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ANURAG-GUPTA-lab's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ANURAG-GUPTA-lab&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
