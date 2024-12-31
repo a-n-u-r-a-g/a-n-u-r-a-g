@@ -41,7 +41,7 @@ const anurag = {
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c++,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
   <img src="https://skillicons.dev/icons?i=react,next,threejs,tailwind,nodejs,express" />
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,github,linux" />
   <img src="https://skillicons.dev/icons?i=flask,django,fastapi,postgresql,mysql,mongodb" />
