@@ -86,10 +86,6 @@ const anurag = {
 - [Project 2](https://github.com/ANURAG-GUPTA-lab/IDS_through_ML_and_DL): This approach aims to improve the accuracy and interpretability of detecting network anomalies, leveraging various deep learning models and techniques.
 - [Project 3](https://github.com/ANURAG-GUPTA-lab/Invoice-Mate): The Invoice Reminder Web Application is designed to help users manage their due invoices efficiently. It includes features for viewing, managing, and sending automated reminders for unpaid invoices.
 
-### 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ANURAG-GUPTA-lab&repo=repo1&theme=radical)](https://github.com/ANURAG-GUPTA-lab/CIAM)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ANURAG-GUPTA-lab&repo=repo2&theme=radical)](https://github.com/ANURAG-GUPTA-lab/Invoice-Mate)
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuraggupta77/)
