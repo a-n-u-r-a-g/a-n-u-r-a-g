@@ -16,6 +16,8 @@
 </div>
 
 
+![](https://raw.githubusercontent.com/ANURAG-GUPTA-lab/ANURAG-GUPTA-lab/output/github-contribution-grid-snake.svg)
+
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
