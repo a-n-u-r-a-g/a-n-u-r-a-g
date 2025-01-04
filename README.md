@@ -1,6 +1,10 @@
 <div align="center">
 
   <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Anurag Gupta</h1>
+
+  I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. Welcome to my GitHub profile!
+
+   ![Profile Views](https://komarev.com/ghpvc/?username=ANURAG-GUPTA-lab&color=blue)
   
   <a href="https://www.linkedin.com/in/anuraggupta77/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -10,6 +14,7 @@
   </a>
   
 </div>
+
 
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -54,25 +59,53 @@ const anurag = {
   GitHub Analytics
 </h2>
 
-<h3>🔥 Streak Stats</h3>
- 
-  <p>
-    <a href="https://github.com/ANURAG-GUPTA-lab/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ANURAG-GUPTA-lab's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ANURAG-GUPTA-lab&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
 
- 
- <h3>💻 GitHub Profile Stats</h3>
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANURAG-GUPTA-lab)](https://github.com/ANURAG-GUPTA-lab/github-readme-stats)
+## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANURAG-GUPTA-lab&layout=compact)](https://github.com/ANURAG-GUPTA-lab/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANURAG-GUPTA-lab&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ANURAG-GUPTA-lab&theme=radical" />
+</div>
 
+## 🏆 GitHub Trophies
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-   
+![trophy](https://github-profile-trophy.vercel.app/?username=ANURAG-GUPTA-lab&theme=onedark&row=1&column=6)
 
-  <a href="https://github.com/ANURAG-GUPTA-lab/github-readme-activity-graph"><img alt="ANURAG-GUPTA-lab's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ANURAG-GUPTA-lab&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANURAG-GUPTA-lab&layout=compact&theme=radical&langs_count=8)
+
+  ## 🌐 Contribution Graph
+
+<a href="https://github.com/ANURAG-GUPTA-lab/github-readme-activity-graph"><img alt="ANURAG-GUPTA-lab's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ANURAG-GUPTA-lab&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+## 🎯 Projects and Repositories
+
+### 🔥 Featured Projects
+- [Project 1](https://github.com/ANURAG-GUPTA-lab/project1): Brief description of Project 1.
+- [Project 2](https://github.com/ANURAG-GUPTA-lab/project2): Brief description of Project 2.
+
+### 📌 Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ANURAG-GUPTA-lab&repo=repo1&theme=radical)](https://github.com/ANURAG-GUPTA-lab/repo1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ANURAG-GUPTA-lab&repo=repo2&theme=radical)](https://github.com/ANURAG-GUPTA-lab/repo2)
+
+## 🗂️ Highlighted Repositories
+
+- [Repository 1](https://github.com/ANURAG-GUPTA-lab/repository1)
+- [Repository 2](https://github.com/ANURAG-GUPTA-lab/repository2)
+- [Repository 3](https://github.com/ANURAG-GUPTA-lab/repository3)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-gupta/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://your-website.com)
+
+## 🎨 3D Model
+
+You can view a 3D model of me [here](https://example.com/3d-model).
+
+![3D Model GIF](https://example.com/3d-model.gif)
+
+Thanks for visiting my profile and feel free to check out my repositories!
