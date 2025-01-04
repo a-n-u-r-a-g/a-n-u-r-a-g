@@ -82,25 +82,20 @@ const anurag = {
 ## 🎯 Projects and Repositories
 
 ### 🔥 Featured Projects
-- [Project 1](https://github.com/ANURAG-GUPTA-lab/project1): Brief description of Project 1.
-- [Project 2](https://github.com/ANURAG-GUPTA-lab/project2): Brief description of Project 2.
+- [Project 1](https://github.com/ANURAG-GUPTA-lab/CIAM): The Container Identity Access Management (CIAM) protocol employs a Docker-based system for robust identity and access control in a secure environment.
+- [Project 2](https://github.com/ANURAG-GUPTA-lab/IDS_through_ML_and_DL): This approach aims to improve the accuracy and interpretability of detecting network anomalies, leveraging various deep learning models and techniques.
+- [Project 3](https://github.com/ANURAG-GUPTA-lab/Invoice-Mate): The Invoice Reminder Web Application is designed to help users manage their due invoices efficiently. It includes features for viewing, managing, and sending automated reminders for unpaid invoices.
 
 ### 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ANURAG-GUPTA-lab&repo=repo1&theme=radical)](https://github.com/ANURAG-GUPTA-lab/repo1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ANURAG-GUPTA-lab&repo=repo2&theme=radical)](https://github.com/ANURAG-GUPTA-lab/repo2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ANURAG-GUPTA-lab&repo=repo1&theme=radical)](https://github.com/ANURAG-GUPTA-lab/CIAM)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ANURAG-GUPTA-lab&repo=repo2&theme=radical)](https://github.com/ANURAG-GUPTA-lab/Invoice-Mate)
 
-## 🗂️ Highlighted Repositories
+## 📫 Connect With Me
 
-- [Repository 1](https://github.com/ANURAG-GUPTA-lab/repository1)
-- [Repository 2](https://github.com/ANURAG-GUPTA-lab/repository2)
-- [Repository 3](https://github.com/ANURAG-GUPTA-lab/repository3)
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-gupta/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuraggupta77/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anuraggupt9406@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/AnuragG05560767)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://anurag-gupta-lab.github.io/portfolio/)
 
 ## 🎨 3D Model
 
