@@ -95,10 +95,6 @@ const anurag = {
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/AnuragG05560767)
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://anurag-gupta-lab.github.io/portfolio/)
 
-## 🎨 3D Model
-
-You can view a 3D model of me [here](https://example.com/3d-model).
-
-![3D Model GIF](https://example.com/3d-model.gif)
+ 
 
 Thanks for visiting my profile and feel free to check out my repositories!
