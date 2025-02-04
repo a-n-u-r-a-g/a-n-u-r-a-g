@@ -85,7 +85,7 @@ const anurag = {
 
 ### 🔥 Featured Projects
 - [Project 1](https://github.com/a-n-u-r-a-g/CIAM): The Container Identity Access Management (CIAM) protocol employs a Docker-based system for robust identity and access control in a secure environment.
-- [Project 2](https://github.com/a-n-u-r-a-g/IDS_through_ML_and_DL): This approach aims to improve the accuracy and interpretability of detecting network anomalies, leveraging various deep learning models and techniques.
+- [Project 2](https://github.com/a-n-u-r-a-g/Hybrid-Ensemble-Learning): This approach aims to improve the accuracy and interpretability of detecting network anomalies, leveraging various deep learning models and techniques.
 - [Project 3](https://github.com/a-n-u-r-a-g/Invoice-Mate): The Invoice Reminder Web Application is designed to help users manage their due invoices efficiently. It includes features for viewing, managing, and sending automated reminders for unpaid invoices.
 
 ## 📫 Connect With Me
